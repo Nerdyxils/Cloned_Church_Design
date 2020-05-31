@@ -1,3 +1,8 @@
+document.getElementById("myButton").onclick = function (){
+    location.href = 'https://tithe.ly/give_new/www/#/tithely/give-one-time/498566';
+};
+
+
 let today = new Date();
 let currentMonth = today.getMonth();
 let currentYear = today.getFullYear();
