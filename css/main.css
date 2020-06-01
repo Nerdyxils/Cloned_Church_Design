@@ -30,6 +30,12 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+.current {
+    border: 0px solid grey;
+    background-color: grey;
+    color: white;
+}
+
 /*Carousel section*/
 .carousel-item {
     width: auto;
